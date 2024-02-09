@@ -1,6 +1,6 @@
 # JPCHS C Minor
 
-<img src="./avatar_school.png" alt="avatar_school" style="zoom: 33%;" />                  **x**                 <img src="./avatar_club.jpeg" alt="avatar_club" style="zoom:80%;" />
+<img src="./avatar_school.png" alt="avatar_school"  />                  **x**                 <img src="./avatar_club.jpeg" alt="avatar_club"  />
 
 ## What is JPCHS C Minor?
 
