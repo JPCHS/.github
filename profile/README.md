@@ -8,4 +8,4 @@ JPCHS is short for "Jiangsu Province Changshu High School". JPCHS C Minor is a c
 
 ## Why C Minor?
 
-It is widely recognized that many modern programming languages have their roots in the C programming language. However, we do not take C as a major -- we do not "major C". So we're "C Minors".
+It is widely recognized that many modern programming languages have their roots in the C programming language. However, we do not take C as a major -- we do not "major C". So, despite the fact that we do not actually "minor" C, we still call ourselves "C Minors".
