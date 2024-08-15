@@ -1,10 +1,10 @@
-# JPCHS C Minor
+# C Minor
 
-<img src="./avatar_school.png" alt="avatar_school"  />                  **x**                 <img src="./avatar_club.jpeg" alt="avatar_club"  />
+<img src="./avatar_club.jpeg" alt="avatar_club"  />
 
-## What is JPCHS C Minor?
+## What is C Minor?
 
-JPCHS is short for "Jiangsu Province Changshu High School". JPCHS C Minor is a club for code lovers from this school and a platform to share our projects with the public.
+JPCHS is short for "Jiangsu Province Changshu High School". We aim to create a club for code lovers from this school and a platform to share our projects with the public, but we failed due to a lack of members. Now this organization serves as a platform on which coding lovers from this school can still share projects and collabrate.
 
 ## Why C Minor?
 
